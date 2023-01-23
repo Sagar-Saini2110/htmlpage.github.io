@@ -1,0 +1,84 @@
+@media only screen and (max-width:995px){
+    .respo_nav{
+        width:200%;
+    }
+    .guide{
+        width:159px;
+    }
+    .learn_area{
+        width: 204%;
+    }
+    .leftside .text{
+        margin-left:80px;
+    }
+
+    .Learn_btn{
+        margin-top: 0px;
+    }
+    .sec1 {
+        width:205%;
+        height: 920px;
+        margin-top: 12px;
+    }
+
+    .sec2{
+        width:200%;
+        height: 530px;
+    }
+    .sec3{
+        width:205%;
+    }
+    .sec4{
+        width:204%;
+        height:590px;
+    }
+    .sec4 h1{
+        margin-top: 28px;
+    }
+    .sec5 {
+        width:205%;
+        height: 471px;
+    }
+    .sec6{
+        height: 600px;
+        width:204%;
+        margin-top:44px;
+    }
+    #sec7{
+        width:204% !important;
+        height: 400px !important;
+    }
+    #sec7 .main_div .respo{
+        height: 200px;
+    }
+    #sec8{
+        height: 719px;
+        width: 953px;
+    }
+    #sec9{
+        height: 410px;
+        width: 203%;
+    }
+    .u img{
+        right:94px;
+    }
+    .google img{
+        left:100px;
+        top:20px;
+    }
+    #sec10{
+        width:203%;
+        height: 520px;
+    }
+    #sec10 .our_part{
+        width:34%;
+        height: 130px;
+    }
+    #sec10 .our_part h1{
+        margin-top: 11px;
+    }
+    #footer{
+        height: 851px;
+        width: 204%;
+    }
+}
